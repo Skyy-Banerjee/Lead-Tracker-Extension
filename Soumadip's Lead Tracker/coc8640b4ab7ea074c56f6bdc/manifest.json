@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Soumadip's Leads tracker",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "latest_icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
+
