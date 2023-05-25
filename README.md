@@ -1,9 +1,7 @@
 # Lead-Tracker-Extension
 A very effective CHROME EXTENSION
 
-Simple yet very effective extension which uses..
---> localStorage()
---> The Chrome API
+Simple yet very effective extension which uses localStorage() and the Chrome API
 
 - The extension can be used to save random leads, urls, tabs as well as the current active tab.
 - It has a DELETION functionality too.
